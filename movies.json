@@ -1,0 +1,1 @@
+{"movies": [{"kind": "Dizi", "name": "kal", "type": "Komedi", "status": "Izlenecek", "rate": "3", "note": "rer"}, {"kind": "Film", "name": "dune", "type": "Aksiyon", "status": "Izlenecek", "rate": "9", "note": "efsane"}, {"kind": "Film", "name": "harry potter", "type": "Bilim Kurgu", "status": "Izlenecek", "rate": "5", "note": "efsane"}]}
